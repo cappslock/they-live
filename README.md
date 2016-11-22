@@ -1,1 +1,3 @@
-This is your Chrome extension which replaces a word or phrase with a different word or phrase. # they-live
+# THEY LIVE
+
+Extensions, load unpacked extension, etc. etc.
