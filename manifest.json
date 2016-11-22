@@ -1,0 +1,16 @@
+{
+    "manifest_version": 2,
+    "name": "T H E Y   L I V E",
+    "version": "1.0",
+    "content_scripts": [
+        {
+            "matches": [
+                "*://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}
